@@ -1,0 +1,19 @@
+/*selector {
+	property: value;
+}*/
+
+body {
+	background-image: url(FUFI.jpg);
+	background-size: cover;
+
+}
+ol{
+	 color: darkorange;
+
+
+}
+li{
+	color: darkorange;
+	outline: 0.1em solid darkgray;
+}
+
